@@ -1,0 +1,10 @@
+{
+    "game": {
+        "name": "MicroGames",
+        "version": "0.1.0"
+    },
+    "console_font": {
+        "filename": "assets/fonts/VeraMono.ttf",
+        "ptsize": 14
+    }
+}
